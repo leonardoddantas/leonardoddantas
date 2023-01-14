@@ -1,16 +1,15 @@
-### Hi there 👋
+### Opa! Aqui quem fala é o Leonardo Dantas 👋
 
-<!--
-**leonardoddantas/leonardoddantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou estudante de informática para internet no IFRN, um apaixonado por tecnologias⚡
+- No momento estou terminando meus estudos na área e me aperfeiçoando em algumas tecnologias💬
+- Tenho como objetivo usar a tecnologia para melhorar e facilitar a vida de muitas pessoas.
+Poder contribuir com minha lógica para que o mundo venha a melhorar cada vez mais e as pessoas possam viver de uma maneira mais leve🌱
 
-Here are some ideas to get you started:
+### Você pode me achar aqui:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Linkedin](https://www.linkedin.com/in/leonardo-dantas-42b885248/)
+
+[Instragram](https://www.instagram.com/leonardoddantas/)
+
+### Tecnologias
+HTML5 | CSS3 | JAVASCRIPT | JAVA |

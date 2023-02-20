@@ -12,4 +12,4 @@ Poder contribuir com minha lógica para que o mundo venha a melhorar cada vez ma
 [Instragram](https://www.instagram.com/leonardoddantas/)
 
 ### Tecnologias
-HTML5 | CSS3 | JAVASCRIPT | JAVA |
+HTML5 | CSS3 | JAVASCRIPT | JAVA 

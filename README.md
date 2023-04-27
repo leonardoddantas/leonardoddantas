@@ -1,7 +1,7 @@
 ### Opa! Aqui quem fala é o Leonardo Dantas 👋
 
 - Sou estudante de informática para internet no IFRN, um apaixonado por tecnologias⚡
-- No momento estou terminando meus estudos na área e me aperfeiçoando em algumas tecnologias💬
+- No momento estou terminando o curso e me aperfeiçoando em algumas tecnologias💬
 - Tenho como objetivo usar a tecnologia para melhorar e facilitar a vida de muitas pessoas.
 Poder contribuir com minha lógica para que o mundo venha a melhorar cada vez mais e as pessoas possam viver de uma maneira mais leve🌱
 
